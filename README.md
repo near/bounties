@@ -1,4 +1,4 @@
-# rfp-specs
+# rfp
 Requests For Proposals (RFP) for projects building on and supporting NEAR.
 
 *This is a work in progress so bear with us :)*
