@@ -37,9 +37,9 @@ Some examples of potential RFP projects might include large and small, technical
 
 
 ## FAQ
-### How is building for an RFP/spec different from addressing a code issue?
+### How is building for a Bounty different from addressing a code issue?
 
-If you are a developer, you can get involved directly with the main repos by going directly to those and checking out the open issues.  The RFP/specs in this repo are intended to involve larger projects which will likely have their own repos (if code-oriented) or which will likely be otherwise totally separate from any of the existing repos.
+If you are a developer, you can get involved directly with the main project repos by going directly to those and checking out the open issues.  The Bounty specs in this repo are intended to involve projects which are not related to existing repos.
 
 ### Does this include marketing-style bounties?
 
