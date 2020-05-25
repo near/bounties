@@ -1,7 +1,10 @@
 # Bounties
+*formerly "/rfp"*
+
 These are specifications for work that helps NEAR and the NEAR ecosystem.  The Issues tab will list each of these and their labels will help you search for what you want. 
 
 *This is a work in progress so bear with us :)*
+*This currently duplicates some effort with the issues on the [/community repo issues](https://github.com/near/community/issues) as well, which will need to get cleaned up.*
 
 ## Overview: Calling Developers, Designers, Product People and Founders!
 
