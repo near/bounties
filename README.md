@@ -71,9 +71,9 @@ Anyone who intends to pay the reward can start a bounty, though bounties which a
 
 ## TODO
 
-1. Create an issue template to make it easier for people to submit specs, categorize them and otherwise interface with this repo
-2. Create a Trello board or other project tracking device which better exposes the actual progress of these specs.
-3. Clarify the way to onboard with a new spec
-3. Clarify to spec producers how exactly they should put together a spec
-3. Clarify the grant/reward process associated with them
-4. Make sure everything everywhere links to this -- Contributor Program, website, blog posts, etc as a tangible set of ways to get involved.
+* [x]  Create an issue template to make it easier for people to submit specs, categorize them and otherwise interface with this repo
+* [x] Create a Trello board or other project tracking device which better exposes the actual progress of these specs.
+* [ ] Clarify the way to onboard with a new spec 
+* [ ] Clarify to spec producers how exactly they should put together a spec
+* [ ] Clarify the grant/reward process associated with them
+* [ ] Make sure everything everywhere links to this -- Contributor Program, website, blog posts, etc as a tangible set of ways to get involved.
