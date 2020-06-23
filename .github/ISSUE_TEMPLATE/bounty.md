@@ -4,7 +4,7 @@ about: Use this template to describe a project, the acceptance criteria and a bo
   for it
 title: ''
 labels: tribe
-assignees: ''
+assignees: potatodepaulo
 
 ---
 
@@ -14,7 +14,7 @@ assignees: ''
 ## Context
 [Some background and explanation on why this is important]
 
-# Acceptance
+# Acceptance Criteria
 * [ ] [Checkboxes for features that are necessary to this being completed]
 
 # Bounty
