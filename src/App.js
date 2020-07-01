@@ -13,7 +13,7 @@ const List = (props) => {
            </td>
           <td>{item.bounty}</td>
           <td>
-            <a href={item.author_url} target="_blank">{item.author}</a>
+            <a href={item.author_page} target="_blank">{item.author}</a>
           </td>
         </tr>
       )}
