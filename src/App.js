@@ -78,7 +78,8 @@ class FilteredList extends React.Component {
   render() {
     return (
       <div className="container">
-        <h1>near.works</h1>
+        <h1>near.works<a href="https://github.com/near/bounties/issues/new?assignees=potatodepaulo&labels=tribe&template=bounty.md&title=">/add_bounty_+ </a></h1>
+        <h2></h2>
         <div className="filter-list">
           <div class="form-group">
             <input type="text"
