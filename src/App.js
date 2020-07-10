@@ -15,6 +15,9 @@ const List = (props) => {
           <td>
             <a href={item.author_page} target="_blank">{item.author}</a>
           </td>
+          <td>
+            <a href={item.assignee_page} target="_blank">{item.assignee}</a>
+          </td>
         </tr>
       )}
     </tbody>
@@ -34,6 +37,27 @@ const grabBounty = desc => {
   let bounty = desc.match(/# Bounty\s*([^.]+|\S+)/);
   if (bounty == null) {return}
   return bounty[1];
+}
+
+const grabAssignee = (item) => {
+  let needAssignee = "Not assigned";
+  let assigned = item.assignees;
+  let assignee = assigned[0];
+  if(assignee == undefined){
+    return needAssignee;
+  }else{
+    return assignee.login;
+  }
+}
+
+const grabAssigneeUrl = (item) => {
+  let needAssignee = item.assignees;
+  let assignee = needAssignee[0];
+  if(assignee == undefined){
+    return;
+  }else{
+    return assignee.html_url;
+  }
 }
 
 class FilteredList extends React.Component {
@@ -65,7 +89,9 @@ class FilteredList extends React.Component {
             url: item.html_url,
             bounty: grabBounty(item.body),
             author: item.user.login,
-            author_page: item.user.html_url
+            author_page: item.user.html_url,
+            assignee: grabAssignee(item),
+            assignee_page: grabAssigneeUrl(item),
           }
         })
       }
@@ -94,6 +120,7 @@ class FilteredList extends React.Component {
                 <th>Title</th>
                 <th>Bounty</th>
                 <th>Author</th>
+                <th>Assigned To</th>
               </tr>
             </thead>
             <List items={this.state.items}/>
