@@ -20,6 +20,10 @@ Over time, we will better clarify the procedure for defining specs, working on s
 
 This is a work in progress!  If you see a spec or RFP pop up here, drop a comment on it or reach out to the maintainer.
 
+If you're not sure what to build, see [this thread of ideas](https://gov.near.org/t/tools-missing-in-the-ecosystem/75/16).
+
+If you do want to build something not on this list, check out the [grants program](https://www.near.org/grants).
+
 
 ### Token rewards
 
@@ -63,7 +67,8 @@ Anyone who intends to pay the reward can start a bounty, though bounties which a
 
 ## Helpful Links
 
-1. The main [Contributor Program page](https://near.org/contributor) where you can participate in a wide range of community-focused activities (usually these are more bite-sized than projects in this repo)
+1. The [NEAR Grants Program](https://gov.near.org/t/tools-missing-in-the-ecosystem/75/16) is where to go if you have a project idea and need support.
+2. The main [Contributor Program page](https://near.org/contributor) where you can participate in a wide range of community-focused activities (usually these are more bite-sized than projects in this repo)
 2. The [Community coordination repo](https://github.com/near/community) where community activities are coordinated.
 3. The [Events Repo](https://github.com/nearprotocol/near-events) where events that team members might sponsor, speak at or host are submitted and tracked
 3. Any of the repos in the [NEAR Github](https://github.com/near) will have READMEs listing their contribution process
