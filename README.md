@@ -42,6 +42,8 @@ Some examples of potential RFP projects might include large and small, technical
 4. A design for a sample delegation interface in a wallet
 4. A rapid prototyping framework which shows how NEAR is different from other UX flows
 
+See this [development catalog hackpad](https://hackmd.io/@vvNs0QmHR-uhQ4-90rbhlw/BkByX1kbu) for more ideas and examples of what already exists.
+
 
 ## FAQ
 ### How is building for a Bounty different from addressing a code issue?
