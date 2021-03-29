@@ -3,8 +3,8 @@ name: Bounty
 about: Use this template to describe a project, the acceptance criteria and a bounty
   for it
 title: ''
-labels: tribe
-assignees: potatodepaulo
+labels: ''
+assignees: potatodepaulo, cameron-NEAR
 
 ---
 

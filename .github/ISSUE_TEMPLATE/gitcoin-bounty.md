@@ -3,7 +3,8 @@ name: GitCoin Bounty
 about: Use this template to describe a project, the acceptance criteria and a bounty
   for posting on gitcoin
 title: ''
-labels: gitcoin
+labels: ''
+assignees: ''
 
 ---
 
