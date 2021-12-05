@@ -29,7 +29,7 @@ If you do want to build something not on this list, check out the [grants progra
 
 Every spec will be different. Many may not list specific rewards, particularly as we are figuring this out.  Your best path forward is to contact the producer of the spec or comment directly on it so they can engage with you and figure out what will make it worth it.
 
-As always, eligibility requirements will vary for grants and rewards so it's also important to check in on that.  For example, prior the the [final phase of MainNet](https://near.org/blog/near-mainnet-genesis/) it will be very challenging to offer token-based rewards in certain geographies.
+As always, eligibility requirements will vary for grants and rewards so it's also important to check in on that.  For example, prior the [final phase of MainNet](https://near.org/blog/near-mainnet-genesis/) it will be very challenging to offer token-based rewards in certain geographies.
 
 
 ## Examples
