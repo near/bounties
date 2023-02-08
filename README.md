@@ -1,3 +1,5 @@
+***UPDATE:** This repo is deprecated, please use [Gigs Board](https://devgovgigs.near.social) to submit your ideas, request funding, and sposor others.*
+
 # Bounties
 *formerly "/rfp"*
 
